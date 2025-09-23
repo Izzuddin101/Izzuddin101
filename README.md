@@ -1,6 +1,8 @@
-Hey its eldoonfish, just be doing random projects involving AI. I wouldn't say im a vibe coder, i do 10% of the work and abuse the AI. It's mutual abuse, ai is just stupid.
+Hey its eldoonfish, just be doing random projects involving AI. I wouldn't say im a vibe coder, i do 10% of the work and abuse the AI. It's mutual abuse, ai is just stupid, im stupid, together we are stupid. 
 
 Currently working on personal project shhhh.... and work i guess. 
+
+Mainly code python backend stuff and ig kotlin and typescript nowadays sorta forced to lol.
 
 planned:
 - 2d game
@@ -8,7 +10,6 @@ planned:
 
 sleep counter: 0 im sleep deprived af
 
-fun fact: nothing im an ordinary person
 
 <!--
 **Izzuddin101/Izzuddin101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
