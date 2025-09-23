@@ -1,8 +1,6 @@
-## Hi there 👋
-
 Hey its eldoonfish, just be doing random projects involving AI as well as abusing them to do my work 24/7
 
-Currently working on personal project shhhh.... 
+Currently working on personal project shhhh.... and work i guess. 
 
 sleep counter: 0 im sleep deprived af
 
