@@ -8,7 +8,9 @@ planned:
 - 2d game
 - discord plugin (maybe)
 
-sleep counter: 0 im sleep deprived af
+wanna collab just hit me up on discord @neudox or twitter or the nearest cafe 
+
+sleep counter: 0 im sleep deprived af but im still a bad coder
 
 
 <!--
