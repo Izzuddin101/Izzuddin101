@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Hey its eldoonfish, just be doing random projects involving AI as well as abusing them to do my work 24/7
+
+Currently working on personal project shhhh.... 
+
+sleep counter: 0 im sleep deprived af
+
+fun fact: nothing im an ordinary person
+
 <!--
 **Izzuddin101/Izzuddin101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
