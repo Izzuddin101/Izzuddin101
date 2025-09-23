@@ -1,6 +1,7 @@
 Hey its eldoonfish, just be doing random projects involving AI. I wouldn't say im a vibe coder, i do 10% of the work and abuse the AI. It's mutual abuse, ai is just stupid.
 
 Currently working on personal project shhhh.... and work i guess. 
+
 planned:
 - 2d game
 - discord plugin (maybe)
