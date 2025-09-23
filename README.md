@@ -8,7 +8,7 @@ planned:
 - 2d game
 - discord plugin (maybe)
 
-wanna collab just hit me up on discord @neudox, email or nearest cafe...
+wanna collab just hit me up on discord @neudox or nearest cafe...
 
 sleep counter: 0 im sleep deprived af but im still a bad coder
 
