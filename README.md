@@ -1,17 +1,4 @@
-Hey its eldoonfish, just be doing random projects involving AI.
-
-Currently working on personal project shhhh.... and work i guess. 
-
-Mainly code python backend stuff and ig kotlin and typescript nowadays sorta forced to lol.
-
-planned:
-- 2d game
-- discord plugin (maybe)
-
-wanna collab just hit me up on discord @neudox or nearest cafe...
-
-sleep counter: 0 im sleep deprived af but im still a bad coder
-
+eldoonfish. Art thou truly a fish? Or a fish brain?
 
 <!--
 **Izzuddin101/Izzuddin101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
