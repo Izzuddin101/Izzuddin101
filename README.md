@@ -3,6 +3,9 @@ Hi there! I do AI Engineering stuff, mostly applied though!
 To reach me:
 - Discord: neudox
 - Linkedin: https://www.linkedin.com/in/muhammad-izzuddin-al-haq-448b22310/
+
+Projects:
+- https://guess-the-player-web.onrender.com/
 <!--
 **Izzuddin101/Izzuddin101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
