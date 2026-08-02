@@ -6,6 +6,9 @@ To reach me:
 
 Projects:
 - https://guess-the-player-web.onrender.com/
+- Mentora (Previously hosted, stopped due to the vercel breach)
+- TFT Stat Tracker (First API project)
+- Network Analyzer (First Machine Learning Project)
 <!--
 **Izzuddin101/Izzuddin101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
