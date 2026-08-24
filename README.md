@@ -13,8 +13,11 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,postgres,typescript" />
 </p>
 
-Currently spending most of my time with **Python**, **FastAPI**, **PostgreSQL**, and AI/LLM systems, while diving deeper into **C++** and lower-level programming.
+Currently spending most of my time with **Python**, **FastAPI**, **PostgreSQL**, and AI/LLM systems, while diving deeper into **C++** and lower-level programming. 
 
+## C++ Projects
+- [TUI Todo](https://github.com/Izzuddin101/tui-todo) — Terminal-based todo application built in C++.
+- [TCP Server](https://github.com/Izzuddin101/tcp-server) — Low-level TCP server implementation using C++ sockets.
 ---
 
 ## Connect with Me
