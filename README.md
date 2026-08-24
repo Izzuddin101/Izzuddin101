@@ -25,10 +25,6 @@ Currently spending most of my time with **Python**, **FastAPI**, **PostgreSQL**,
 <p>
   <a href="https://www.linkedin.com/in/muhammad-izzuddin-al-haq-448b22310">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://discord.com/users/366978372741496852">
-    <img src="https://img.shields.io/badge/Discord-Message_Me-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
 </p>
 
 ---
