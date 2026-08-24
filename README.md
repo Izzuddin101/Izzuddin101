@@ -13,7 +13,7 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,postgres,typescript" />
 </p>
 
-Currently spending most of my time with **Python**, **FastAPI**, **PostgreSQL**, and AI/LLM systems, while diving deeper into **C++** and lower-level programming. 
+Currently spending most of my time with **Python**, **FastAPI**, **PostgreSQL**, and AI/LLM systems, while diving deeper into **C++** and lower-level programming. Pulling myself out of AI brainrot by challenging myself to learn systems and code them using C++.
 
 ## C++ Projects
 - [TUI Todo](https://github.com/Izzuddin101/tui-todo) — Terminal-based todo application built in C++.
